@@ -1,7 +1,6 @@
 
 <<<<<<< HEAD
 # Fullstack Website Repository - Hady Korshem
-=======
 
 Welcome to the **Fullstack Website** repository! This project serves as a learning resource for students enrolled in the **Computer Applications in Business Course**. The repository demonstrates how to build a full-stack web application using modern technologies, including Node.js, MySQL, and React.js.
 
