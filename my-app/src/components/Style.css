@@ -1,0 +1,37 @@
+body {
+    background-color: #fbfdff;
+    color: #00244e;
+}
+
+header {
+    background-color: #00244e;
+    color: #fbfdff;
+    text-align: center;
+    padding: 40px 0;
+}
+
+header ul{
+    list-style-type: none;
+}
+
+header a{
+    color: #fbfdff;
+    font-size: 22px;
+    text-decoration: none;
+    transition: 0.5s;
+    position: relative;
+
+}
+
+
+header a:hover{
+    border-bottom: 2px solid white;
+    scale: 1.2;
+    color: #b8b8b8;
+}
+
+header li{
+    display: inline;
+    margin: 0 40px;
+}
+
